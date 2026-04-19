@@ -1,0 +1,19 @@
+# Core AI
+langchain-groq>=0.3.5
+langchain-mcp-adapters>=0.1.0
+langgraph>=0.2.0
+langchain-core>=0.3.0
+
+# MCP
+mcp>=1.0.0
+
+# Backend
+fastapi>=0.115.0
+uvicorn>=0.30.0
+
+# Frontend
+streamlit>=1.40.0
+requests>=2.31.0
+
+# Config
+python-dotenv>=1.0.0
